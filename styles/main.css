@@ -18,8 +18,17 @@ nav {
 
 a { font-family: 'Comfortaa', bold;
 font-size: 28px;
-color: #FF69B4;
+
+  color: #FF69B4;
 text-decoration: none;}
+
+h2 {
+  font-family: 'Comfortaa', regular;
+  font-size: 18px;
+color: #FF1493;
+  margin-left: 24.5em;
+
+}
 
 h1 {
   margin-left: 6.5em;
@@ -43,7 +52,7 @@ ul li a {
 
 
 a:hover {
-  color:#FF1493;
+color: #FF1493;
   text-decoration: underline;
 }
 
